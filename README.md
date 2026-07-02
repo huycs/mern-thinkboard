@@ -5,14 +5,14 @@ A full-stack note-taking application built with the MERN stack. Users can create
 https://mern-thinkboard-6y5j.onrender.com/
 
 ✨ Features:
-Create new notes
-Edit existing notes
-Delete notes
-Responsive user interface
-RESTful API
-MongoDB data persistence
-Rate limiting using Upstash Redis
-Production deployment on Render
+- Create new notes
+- Edit existing notes
+- Delete notes
+- Responsive user interface
+- RESTful API
+- MongoDB data persistence
+- Rate limiting using Upstash Redis
+- Production deployment on Render
 
 🛠 Tech Stack
 Frontend: React
